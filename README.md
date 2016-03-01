@@ -1,2 +1,2 @@
 # learn-react
-[copy from](https://github.com/ruanyf/react-demos)
+copy code from [https://github.com/ruanyf/react-demos](https://github.com/ruanyf/react-demos)
